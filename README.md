@@ -1,1 +1,2 @@
 # cssd1161-w4-ex1-toufiq
+I am a first-year Computer Science student interested in software development and technology. My goal for this course is to improve my teamwork and communication skills, learn how to work better with others, and become more confident when sharing my ideas during software development projects.
